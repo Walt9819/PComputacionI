@@ -8,6 +8,6 @@
 
 int main()
 {
-    std::cout << "Este programa hace operaciones basicas entre dos numeros.\n";
+    std::cout << "Este programa hace operaciones basicas entre dos numeros.\n"
     return 0;
 }
